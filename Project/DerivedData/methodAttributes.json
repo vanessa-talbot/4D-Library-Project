@@ -1,0 +1,88 @@
+﻿{
+	"methods": {
+		"BooksSetInterface": {
+			"timeStamp": "2019-07-26T09:09:39.773Z"
+		},
+		"BooksReOrder": {
+			"timeStamp": "2019-07-26T09:09:39.768Z"
+		},
+		"BookSetStatus": {
+			"timeStamp": "2019-07-26T09:09:39.773Z"
+		},
+		"BuildBookList": {
+			"timeStamp": "2019-07-26T09:09:39.771Z"
+		},
+		"Tool_BuildBookPicture": {
+			"timeStamp": "2019-07-26T09:09:39.766Z"
+		},
+		"P_ManageStudents": {
+			"timeStamp": "2019-07-26T09:09:39.774Z"
+		},
+		"M_ManageBooks": {
+			"timeStamp": "2019-07-26T09:09:39.772Z"
+		},
+		"M_Quit": {
+			"timeStamp": "2019-07-26T09:09:39.770Z"
+		},
+		"Tool_ExportSampleData": {
+			"timeStamp": "2019-07-26T09:09:39.776Z"
+		},
+		"BooksExitEditMode": {
+			"timeStamp": "2019-07-26T09:09:39.775Z"
+		},
+		"P_ManageBooks": {
+			"timeStamp": "2019-07-26T09:09:39.774Z"
+		},
+		"BookGotoHighLighted": {
+			"timeStamp": "2019-07-26T09:09:39.775Z"
+		},
+		"Compiler_Variables_Inter": {
+			"timeStamp": "2019-07-26T09:09:39.769Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Compiler_Variables": {
+			"timeStamp": "2019-07-26T09:09:39.770Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"On_Open": {
+			"timeStamp": "2019-07-26T09:09:39.766Z"
+		},
+		"Tool_ImportSampleData": {
+			"timeStamp": "2019-07-26T09:09:39.767Z"
+		},
+		"StudentsReOrder": {
+			"timeStamp": "2019-07-26T09:09:39.768Z"
+		},
+		"Compiler_Methods": {
+			"timeStamp": "2019-07-26T09:09:39.770Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Compiler_Arrays_Inter": {
+			"timeStamp": "2019-07-26T09:09:39.776Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"M_ManageStudents": {
+			"timeStamp": "2019-07-26T09:09:39.764Z"
+		},
+		"(Add)": {
+			"timeStamp": "2019-07-26T09:09:39.777Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"(Method22)": {
+			"timeStamp": "2019-07-26T09:09:39.778Z",
+			"attributes": {
+				"invisible": true
+			}
+		}
+	}
+}
