@@ -3,9 +3,9 @@ C_LONGINT:C283($i;$n;$p)
 C_LONGINT:C283($bookRecId)
 
 
-  // the highlight set has been modified by programming or by clicking
-  // and adding a record in the highlight set does not mean it still is the current record
-  // so let's make the first highlighted record the current one (loaded in memory)
+/* the highlight set has been modified by programming or by clicking 
+and adding a record in the highlight set does not mean it still is the current record
+so let's make the first highlighted record the current one(loaded in memory)*/
 
 $n:=Records in set:C195("$highlightedBooks")
 If ($n#0)

@@ -1,7 +1,8 @@
 ﻿{
 	"forms": {
 		"WarningDialog": {
-			"timeStamp": ""
+			"timeStamp": "2019-07-26T09:09:39.876Z",
+			"destination": "detailScreen"
 		}
 	}
 }

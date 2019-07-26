@@ -1,13 +1,15 @@
 ﻿{
 	"forms": {
 		"PrintedList": {
-			"timeStamp": ""
+			"timeStamp": "2019-07-26T09:09:39.884Z",
+			"destination": "listPrinter"
 		},
 		"NewBook": {
-			"timeStamp": ""
+			"timeStamp": "2019-07-26T09:09:39.882Z",
+			"destination": "detailScreen"
 		},
 		"InputOutput": {
-			"timeStamp": ""
+			"timeStamp": "2019-07-26T09:09:39.893Z"
 		}
 	}
 }

@@ -1,13 +1,16 @@
 ﻿{
 	"forms": {
 		"Input": {
-			"timeStamp": ""
+			"timeStamp": "2019-07-26T09:09:39.895Z",
+			"destination": "detailScreen"
 		},
 		"D_BorrowBook": {
-			"timeStamp": ""
+			"timeStamp": "2019-07-26T09:09:39.901Z",
+			"destination": "detailScreen"
 		},
 		"List": {
-			"timeStamp": ""
+			"timeStamp": "2019-07-26T09:09:39.896Z",
+			"destination": "detailScreen"
 		}
 	}
 }
